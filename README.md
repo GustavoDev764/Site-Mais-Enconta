@@ -6,3 +6,4 @@
 
 - [React Js](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
+- [TypeScript](https://www.typescriptlang.org/)
